@@ -1,0 +1,7 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  dns.c
+D:\Женя\Projects\lab_1_dns_src\test\dns.c(43,39): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Женя\Projects\lab_1_dns_src\test\dns.c(46,15): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Женя\Projects\lab_1_dns_src\test\dns.c(78,39): warning C4090: функция: разные квалификаторы "const"
+D:\Женя\Projects\lab_1_dns_src\test\dns.c(80,32): warning C4013: strcmp: нет определения; предполагается "extern" с возвратом типа "int"
+  test.vcxproj -> D:\Женя\Projects\lab_1_dns_src\test\Debug\test.exe
